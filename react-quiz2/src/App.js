@@ -6,7 +6,7 @@ import Quiz from './containers/Quiz/Quiz';
 function App() {
   return (
     <Layout>
-      <Quiz></Quiz>
+      <Quiz/>
     </Layout>
   );
 }
